@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/firestore?activeTab=versions
 
+### [3.8.1](https://www.github.com/googleapis/nodejs-firestore/compare/v3.8.0...v3.8.1) (2020-05-14)
+
+
+### Bug Fixes
+
+* Add tests to check fields used in whereIn should be equality filters ([#1081](https://www.github.com/googleapis/nodejs-firestore/issues/1081)) ([3153dd2](https://www.github.com/googleapis/nodejs-firestore/commit/3153dd296891a983b3a0e78354df3fe106ad44a2))
+
 ## [3.8.0](https://www.github.com/googleapis/nodejs-firestore/compare/v3.7.5...v3.8.0) (2020-05-13)
 
 
